@@ -1,3 +1,5 @@
+> **Estudo concluído.** Este repositório faz parte de uma série de seis estudos baseados em livro. Consulte o [índice da série](https://github.com/JVCSampaio/data-science-projects) e o [portfólio](https://github.com/JVCSampaio) para os projetos em destaque.
+
 # Projeto 1 — Exploração de Dados com Pandas e Matplotlib
 
 Exploração visual e estatística de um dataset real de cartões de crédito (UCI Machine Learning Repository), preparando a base de dados para os projetos de modelagem que seguem a sequência.
